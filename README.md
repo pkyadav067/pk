@@ -1,3 +1,4 @@
+<?php
 define("USERNAME", "pkkumar01994@gmail.com");
 define("PASSWORD", "pankaj067");
 define("SECURITY_TOKEN", "uA8dkGTXYY0PL2Krof6p3uYL");
@@ -16,3 +17,4 @@ echo '<tr>
 	<td>'.$record->fields->Phone.'</td>
 	 </tr>';
  }
+ ?>
